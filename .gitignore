@@ -1,0 +1,16 @@
+
+```gitignore
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
